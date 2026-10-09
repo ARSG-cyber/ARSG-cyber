@@ -1,6 +1,7 @@
+
 <div align="center">
 
-  <img src="pofile.jpg" width="150" height="150" alt="Abdul Rehman" />
+  <img src="Profile.jpg" width="300" height="300" alt="Abdul Rehman" />
 
   <h1>Hi 👋, I'm Abdul Rehman</h1>
 
