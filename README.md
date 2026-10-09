@@ -1,7 +1,6 @@
 
 <div align="center">
-
-  <img src="Profile.jpg" width="300" height="300" alt="Abdul Rehman" />
+  
 
   <h1>Hi 👋, I'm Abdul Rehman</h1>
 
