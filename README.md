@@ -1,82 +1,67 @@
-<p align="center">
-  <img src="./profile.png" alt="Abdul Rehman" width="150" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
+  <img src="./profile.png" width="150" height="150" alt="Abdul Rehman" />
 
-<h3 align="center">Software Engineering Student | Aspiring Full-Stack Developer</h3>
+  <h1>Hi 👋, I'm Abdul Rehman</h1>
 
-<p align="center">
-  Passionate about software development, problem-solving, and building meaningful projects.
-</p>
+  <h3>Software Engineering Student | Aspiring Full-Stack Developer</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Learning+MERN+Stack+Development;Exploring+AI+%26+Machine+Learning;Interested+in+Cybersecurity;Building+Projects+and+Learning+Every+Day" alt="Typing introduction" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Learning+MERN+Stack+Development;Exploring+Artificial+Intelligence;Interested+in+Machine+Learning;Exploring+Cybersecurity;Building+Projects+Every+Day" alt="Animated introduction" />
 
----
+  <br />
 
-### 👨‍💻 About Me
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-blue?style=flat-square" alt="Focus: Full-Stack Development" />
+    <img src="https://img.shields.io/badge/Interest-Artificial%20Intelligence-purple?style=flat-square" alt="Interest: Artificial Intelligence" />
+    <img src="https://img.shields.io/badge/Field-Software%20Engineering-green?style=flat-square" alt="Field: Software Engineering" />
+  </p>
 
-* 🎓 Studying **Software Engineering at GCUF**
-* 💻 Learning and practicing **Data Structures & Algorithms (DSA)** and **Object-Oriented Programming (OOP)**
-* 🌱 Currently learning **MERN Stack Development**
-* 🐍 Programming knowledge: **C++ and Python**
-* 🌐 Web development foundations: **HTML and CSS**
-* 🤖 Interested in **Artificial Intelligence, Machine Learning, and Automation**
-* 🔐 Exploring **Cybersecurity and secure software development**
-* 📚 Completed a course at **SMIT**
-* 🚀 Building projects to develop practical skills
+</div>
 
 ---
 
-### 🛠️ Technologies & Tools
+## 👨‍💻 About Me
 
-<p align="center">
+I'm a Software Engineering student at GCUF, building my programming foundations and exploring modern software technologies.
+
+* 🎓 Studying Software Engineering at GCUF
+* 💻 Learning Data Structures & Algorithms and Object-Oriented Programming
+* 🌱 Currently learning MERN Stack Development
+* 🐍 Knowledge of C++, Python, HTML, and CSS
+* 🤖 Interested in AI, Machine Learning, and Automation
+* 🔐 Exploring Cybersecurity
+* 🚀 Building projects and improving my practical skills
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,git,github,vscode" alt="Technologies and tools" />
-</p>
-
-**Currently learning:** JavaScript, React, Node.js, Express.js, and MongoDB.
-
-**Areas of interest:** AI, Machine Learning, Cybersecurity, and Automation.
+</div>
 
 ---
 
-### 📚 Core Concepts
+## 🎯 Current Goals
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Programming Fundamentals
-* Web Development Fundamentals
-
----
-
-### 🎯 Current Goals
-
-* Build practical projects using the MERN stack.
-* Improve problem-solving and algorithmic thinking.
-* Explore Python-based AI and machine learning projects.
-* Learn cybersecurity fundamentals and secure coding practices.
-* Contribute to open-source projects and collaborate with other developers.
+* Build practical full-stack applications.
+* Improve problem-solving skills.
+* Explore AI and machine learning with Python.
+* Learn cybersecurity fundamentals.
+* Contribute to open-source projects.
 
 ---
 
-### 📊 GitHub Statistics
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARSG-cyber&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ARSG-cyber&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARSG-cyber&layout=compact&hide_border=true&theme=default" alt="Most-used programming languages" />
-</p>
+  <br />
 
----
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARSG-cyber&layout=compact&hide_border=true&theme=transparent" alt="Most-used programming languages" />
 
-### 🤝 Let's Connect
+<br /><br />
 
-I'm always interested in learning new technologies, exploring interesting projects, and connecting with fellow developers.
+<i>Learn continuously. Build consistently. Improve every day. 🚀</i>
 
-<p align="center">
-  <i>Learn continuously. Build consistently. Improve every day.</i>
-</p>
+</div>
