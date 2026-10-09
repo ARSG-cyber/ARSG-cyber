@@ -1,40 +1,44 @@
+<p align="center">
+  <img src="./profile.png" alt="Abdul Rehman" width="150" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
 
 <h3 align="center">Software Engineering Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
-  Passionate about building meaningful projects, exploring emerging technologies, and continuously improving my programming skills.
+  Passionate about software development, problem-solving, and building meaningful projects.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Learning+MERN+Stack+Development;Exploring+AI+%26+Machine+Learning;Interested+in+Cybersecurity;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Learning+MERN+Stack+Development;Exploring+AI+%26+Machine+Learning;Interested+in+Cybersecurity;Building+Projects+and+Learning+Every+Day" alt="Typing introduction" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-* 🎓 Currently studying **Software Engineering at GCUF**
-* 💻 Have a foundation in **Data Structures & Algorithms (DSA)** and **Object-Oriented Programming (OOP)**
+* 🎓 Studying **Software Engineering at GCUF**
+* 💻 Learning and practicing **Data Structures & Algorithms (DSA)** and **Object-Oriented Programming (OOP)**
 * 🌱 Currently learning **MERN Stack Development**
-* 🐍 Have learned **C++, Python, HTML, and CSS**
+* 🐍 Programming knowledge: **C++ and Python**
+* 🌐 Web development foundations: **HTML and CSS**
 * 🤖 Interested in **Artificial Intelligence, Machine Learning, and Automation**
-* 🔐 Exploring **Cybersecurity** and secure software development
+* 🔐 Exploring **Cybersecurity and secure software development**
 * 📚 Completed a course at **SMIT**
-* 🚀 Building projects to strengthen my practical skills
-* 🎯 Focused on becoming a skilled software developer and lifelong learner
+* 🚀 Building projects to develop practical skills
 
 ---
 
-### 🛠️ Languages and Technologies
+### 🛠️ Technologies & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,git,github,vscode" alt="Programming languages and technologies" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,express,mongodb,git,github,vscode" alt="Technologies and tools" />
 </p>
 
-**Currently focusing on:** JavaScript, React, Node.js, Express.js, and MongoDB.
+**Currently learning:** JavaScript, React, Node.js, Express.js, and MongoDB.
 
-**Areas of interest:** AI, machine learning, cybersecurity, and automation.
+**Areas of interest:** AI, Machine Learning, Cybersecurity, and Automation.
 
 ---
 
@@ -52,7 +56,7 @@
 * Build practical projects using the MERN stack.
 * Improve problem-solving and algorithmic thinking.
 * Explore Python-based AI and machine learning projects.
-* Learn more about cybersecurity and secure coding practices.
+* Learn cybersecurity fundamentals and secure coding practices.
 * Contribute to open-source projects and collaborate with other developers.
 
 ---
@@ -74,5 +78,5 @@
 I'm always interested in learning new technologies, exploring interesting projects, and connecting with fellow developers.
 
 <p align="center">
-  <i>"Learn continuously. Build consistently. Improve every day."</i>
+  <i>Learn continuously. Build consistently. Improve every day.</i>
 </p>
